@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\bin\Debug\net8.0\FoodorDrink.exe
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\bin\Debug\net8.0\FoodorDrink.deps.json
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\bin\Debug\net8.0\FoodorDrink.runtimeconfig.json
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\bin\Debug\net8.0\FoodorDrink.dll
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\bin\Debug\net8.0\FoodorDrink.pdb
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\FoodorDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\FoodorDrink.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\FoodorDrink.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\FoodorDrink.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\FoodorDrink.dll
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\refint\FoodorDrink.dll
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\FoodorDrink.pdb
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\FoodorDrink.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\FoodorDrink\FoodorDrink\obj\Debug\net8.0\ref\FoodorDrink.dll
